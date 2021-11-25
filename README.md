@@ -1,4 +1,4 @@
-#Trading Journal
+
 ## About The Project
 A basic web app that allow you to manage a trading journal based on a spreadsheet more easily than working on the raw file, offering better opportunity for trade study and analysis.
 
