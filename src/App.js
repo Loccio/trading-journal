@@ -1,18 +1,16 @@
-import logo from './wip.png';
-import './App.css';
+
+import Sidebar from './components/sidebar/sidebar';
+import Container from './components/container/container';
+import {BrowserRouter as Router} from 'react-router-dom';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <h2> WORK IN PROGRESS</h2>
-        <p>
-        Version 0.1 coming soon.
-        </p>
-      
-      </header>
-    </div>
+    <div className="flex">
+      <Router>
+      <Sidebar/>
+      <Container/>
+      </Router>
+      </div>
   );
 }
 

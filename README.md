@@ -5,7 +5,11 @@ A basic web app that allow you to manage a trading journal based on a spreadshee
 
 ## Built With
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was built with 
+[Create React App](https://github.com/facebook/create-react-app).
+[TailwindCSS](https://github.com/tailwindlabs/tailwindcss.git).
+
+
 
 ## Available Scripts
 
